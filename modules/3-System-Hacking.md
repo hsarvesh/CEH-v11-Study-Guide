@@ -132,7 +132,7 @@ SQLnet | 1521
     - Downside is there can be lots of false negatives
 
     - **False acceptance rate (FAR) - Type II** - Likelihood that an unauthorized user will be accepted (This would be bad)
-    - **False injection rate (FRR) - Type I** - Likelihood that an authorized user will be rejected
+    - **False Rejection rate (FRR) - Type I** - Likelihood that an authorized user will be rejected
     - **Crossover error rate (CER)** - Combination of the two; the lower the CER, the better the system
     - **Active** - requires interaction (retina scan or fingerprint scanner)
     - **Passive** - Requires no interaction (iris scan)
